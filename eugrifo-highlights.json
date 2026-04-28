@@ -6,7 +6,8 @@
     "tags": [
       "claude",
       "ia",
-      "docs"
+      "docs",
+      "tag nova"
     ],
     "summary": "",
     "page_comment": "teste testando",
@@ -14,8 +15,8 @@
       {
         "id": "c6261e10-ed0a-46d9-b514-974577de041c",
         "highlight": "The weekly dev digest highlights the features most likely to change how you work. Each entry includes runnable code, a short demo, and a link to the full docs. For every bug fix and minor improvement, see the changelog.",
-        "color": "#90ee90",
-        "highlight_note": "test"
+        "color": "#ffb6c1",
+        "highlight_note": "nota nova pra testar atualização"
       }
     ]
   }
