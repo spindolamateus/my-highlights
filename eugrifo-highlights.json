@@ -19,5 +19,24 @@
         "highlight_note": "nota nova pra testar atualização"
       }
     ]
+  },
+  "https://medium.com/google-cloud/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4": {
+    "date": "2026-04-28",
+    "title": "I ran Gemma 4 as a local model in Codex CLI | by Daniel Vaughan | Google Cloud - Community | Apr, 2026 | Medium",
+    "thumbnail": "",
+    "tags": [
+      "gemma",
+      "codex"
+    ],
+    "summary": "",
+    "page_comment": "",
+    "highlights": [
+      {
+        "id": "b85e294d-a4af-4ebc-bcbf-3e41c3339e36",
+        "highlight": "I wanted to know whether Gemma 4 could replace a cloud model for my day-to-day agentic coding. Not in theory, in practice. I use Codex CLI every day, running GPT-5.4 as my default model. It works well, but every token costs money and every prompt sends my code to someone else’s server. I also have friends thinking seriously about spending real",
+        "color": "#90ee90",
+        "highlight_note": "nota nova"
+      }
+    ]
   }
 }
